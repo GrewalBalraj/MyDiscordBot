@@ -1,5 +1,5 @@
 # MyDiscordBot
-A Discord bot I made to provide moderation for a discord server, as well as provide entertainment and information commands to users of a server. These commands include the ability to ask the bot for things such as:
+A Discord bot made to provide moderation for a discord server, as well as provide entertainment and information commands to users of a server. These commands include the ability to ask the bot for things such as:
 
   - Trivia questions
   - The current weather in a city
