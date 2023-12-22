@@ -8,7 +8,7 @@ A Discord bot I made to provide moderation for a discord server, as well as prov
  
 # Credits: 
 
-I would like to express my gratitude to the following APIs that greatly contributed to the functionality and features of MyBot:
+I would like to express my gratitude to the following APIs that contributed to the functionality and features of MyBot:
 
 Weather API:
   * Name: OpenWeather
@@ -28,7 +28,7 @@ Anime API:
 
 # Acknowledgements:
 
-I want to extend my thanks to the developers of these APIs for providing these services that enhance the experience of MyBot. Their dedication to maintaining these free APIs has been instrumental in making this project possible. As a result, if you would like to implement MyBot into your servers, please adhere to the specific rules and regulations set by the developers of these APIs.
+I want to extend my thanks to the developers of these APIs for providing these services that enhance the experience of MyBot. Their dedication to maintaining these free APIs has been instrumental in making this project possible. As a result, if you would like to implement MyBot into your servers, please adhere to the specific rules and regulations set by the developers of these APIs, as some of these APIs have rules that prohibit spamming and mass collecting data. Additionally, if you would like to implement this bot, you will need to get an API key from OpenWeather to use the weather command, which you can obtain for free on their website. 
 
 
 
